@@ -1,40 +1,57 @@
-# Personal Portfolio Website
+# 👋 Hi there, I'm Prashant Tiwari
 
-This repository contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.
+🎓 **Business Analytics Undergraduate**  
+📍 First-year student at MIT Sydney, Australia  
+🌐 [www.prashanttiwari.com.np](http://www.prashanttiwari.com.np)
 
-## Description
+---
 
-The personal portfolio website showcases my skills, projects, and experiences as a web developer. It serves as an online platform to highlight my work and provide information about my background and expertise.
+## 🚀 About Me
 
-## Features
+I'm a self-motivated and enthusiastic learner with a deep passion for **Business and Technology**. As a Business Analytics student, I thrive in challenging and dynamic environments, always seeking opportunities to learn and grow.
 
-- Home: Introduces myself and provides a brief overview of my skills and interests.
-- About: Details my professional background, education, and relevant experience.
-- Projects: Showcases the projects I have worked on, including descriptions, screenshots, and links to live demos or repositories.
-- Skills: Lists the programming languages, frameworks, and tools I am proficient in.
-- Contact: Offers various ways to get in touch with me, such as through email, social media, or a contact form.
+I'm passionate about exploring the intersection of data, strategy, and technology — and how they can drive impactful business decisions. I love building projects that not only solve problems but also enhance my skills and understanding.
 
-## Technologies Used
+---
 
-- HTML: Markup language used for structuring the website.
-- CSS: Stylesheet language used for designing and formatting the website.
-- JavaScript: Programming language used for adding interactivity and dynamic features.
+## 📊 My Journey So Far
 
-## Getting Started
+- 📚 **Aggregate CGPA:** 08.30+
+- 💻 **Projects Completed:** 04+
+- ⏳ **Experience:** 01+ Month(s)
 
-To view the website locally or make modifications, follow these steps:
+---
 
-1. Clone the repository: `git clone [repository URL]`
-2. Open the project folder in your preferred code editor.
-3. Open the `index.html` file in a web browser to view the website.
+## 🛠️ Skills & Technologies
 
-## Contributing
+### 👨‍💻 Programming Languages
+- Python
+- C
+- C++
+- JavaScript
 
-I appreciate any suggestions, feedback, or contributions to enhance this personal portfolio website. If you would like to contribute, please follow the guidelines in the `CONTRIBUTING.md` file.
+### 🧠 Core IT Constructs
+- DBMS
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Operating Systems (OS)
 
-## Contact
+---
 
-If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the website or by using the contact form.
+## 📈 Goals
 
-Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing.
-![Portfolio](https://github.com/Venkateeshh/Portfolio-Website/assets/117290841/d05942e3-6970-47eb-9757-482f11bb6044)
+- Contribute meaningfully to real-world projects
+- Learn and explore emerging technologies
+- Become a data-driven problem solver
+- Network and collaborate with industry professionals
+
+---
+
+## 📬 Let's Connect
+
+📫 Feel free to reach out via my portfolio:  
+🔗 [www.prashanttiwari.com.np](http://www.prashanttiwari.com.np)
+
+---
+
+> _"Strive not to be a success, but rather to be of value."_ — Albert Einstein
