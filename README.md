@@ -16,9 +16,9 @@ I'm passionate about exploring the intersection of data, strategy, and technolog
 
 ## 📊 My Journey So Far
 
-- 📚 **Aggregate CGPA:** 08.30+
+- 📚 **Aggregate GPA:** 3.6+
 - 💻 **Projects Completed:** 04+
-- ⏳ **Experience:** 01+ Month(s)
+- ⏳ **Experience:** 02+ Year(s)
 
 ---
 
