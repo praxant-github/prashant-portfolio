@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm Prashant Tiwari
 
-🎓 **Business Analytics Undergraduate**  
-📍 First-year student at MIT Sydney, Australia  
+🎓 ** Data Science Undergraduate**  
+📍 First-year student at Kathmandu University. 
 🌐 [www.prashanttiwari.com.np](http://www.prashanttiwari.com.np)
 
 ---
 
 ## 🚀 About Me
 
-I'm a self-motivated and enthusiastic learner with a deep passion for **Business and Technology**. As a Business Analytics student, I thrive in challenging and dynamic environments, always seeking opportunities to learn and grow.
+I'm a self-motivated and enthusiastic learner with a deep passion for **Data and Technology**. As a Data Science student, I thrive in challenging and dynamic environments, always seeking opportunities to learn and grow.
 
 I'm passionate about exploring the intersection of data, strategy, and technology — and how they can drive impactful business decisions. I love building projects that not only solve problems but also enhance my skills and understanding.
 
@@ -16,7 +16,7 @@ I'm passionate about exploring the intersection of data, strategy, and technolog
 
 ## 📊 My Journey So Far
 
-- 📚 **Aggregate GPA:** 3.6+
+- 📚 **Aggregate GPA:** 3.70
 - 💻 **Projects Completed:** 04+
 - ⏳ **Experience:** 02+ Year(s)
 
